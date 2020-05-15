@@ -88,7 +88,12 @@ defaults:
     values:
       layout: post
       share: true
-
+  - scope:
+      path: "_posts/folder"
+      type: posts
+    values:
+      layout: posts
+      share: true
 # Site Author
 author: 
   name: Yozaren
