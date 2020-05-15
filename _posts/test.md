@@ -1,6 +1,5 @@
 ---
 title: "test"
-layout: posts
 categories:
   - problem
 tags:
