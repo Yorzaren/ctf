@@ -1,5 +1,4 @@
 ---
-title: "Layout: Hero Image"
 categories:
   - picoCTF2018
 tags:
