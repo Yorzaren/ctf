@@ -89,7 +89,7 @@ defaults:
       layout: post
       share: true
   - scope:
-      path: "_posts/folder"
+      path: "_picoCTF-2018"
       type: posts
     values:
       layout: post
