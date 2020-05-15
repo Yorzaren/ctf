@@ -1,10 +1,10 @@
 ---
 title: "Forensics Warmup 1"
 categories:
-  - picoCTF2018
+  - picoCTF-2018
 tags:
   - picoCTF
-  - picoCTF2018
+  - picoCTF-2018
   - forencsics
   - unzipping
 ---
