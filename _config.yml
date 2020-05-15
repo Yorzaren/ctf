@@ -92,8 +92,9 @@ defaults:
       path: "_posts/folder"
       type: posts
     values:
-      layout: posts
+      layout: post
       share: true
+
 # Site Author
 author: 
   name: Yozaren
