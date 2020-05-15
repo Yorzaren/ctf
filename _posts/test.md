@@ -1,9 +1,8 @@
 ---
-title: "Edge Case: Nested and Mixed Lists"
-permalink: /test/
+title: "test"
 layout: page
 categories:
-  - Edge Case
+  - problem
 tags:
   - content
   - css
