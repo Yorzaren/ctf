@@ -79,12 +79,6 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
 
-# Collections - UNUSED
-collections:
-  picoCTF-2018:
-    output: true
-    permalink: /:collection/:path/
-
 # Front Matter Defaults
 defaults:
   # Posts defaults
@@ -108,9 +102,9 @@ author:
   email:
   twitter:
   links:
-    - title:
-      url:
-      icon:
+    - title: GitHub
+      url: https://github.com/yozaren
+      icon: fab fa-github-square
 
 # Footer Links
 footer_links:
