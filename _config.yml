@@ -90,8 +90,8 @@ defaults:
       share: true
 
 # Site Author
-author: Yozaren
-  name:
+author: 
+  name: Yozaren
   picture:
   email:
   twitter:
