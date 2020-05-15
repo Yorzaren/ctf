@@ -60,6 +60,7 @@ search_full_content: true # can have performance implications for large sites
 # Taxonomy pages
 category_archive_path: "/categories/#"
 tag_archive_path: "/tags/#"
+picoCTF-2018_archive_path: "/picoCTF-2018/#"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -79,12 +80,23 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
 
+# Collections
+collections:
+  picoCTF-2018:
+    output: true
+    permalink: /:collection/:path/
+
 # Front Matter Defaults
 defaults:
   # Posts defaults
   - scope:
-      path: ""
+      path: "_posts"
       type: posts
+    values:
+      layout: post
+ - scope:
+      path: "_picoCTF-2018"
+      type: picoCTF-2018
     values:
       layout: post
 
