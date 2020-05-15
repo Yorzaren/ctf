@@ -11,7 +11,7 @@ tags:
 
 Problem: Can you unzip this file for me and retreive the flag?
 
-File: [flag.zip](/problem-files/Forensics Warmup 1 flag.zip)
+File: [flag.zip](problem-files/Forensics Warmup 1 flag.zip)
 
 Solution: Unzip the file getting this image:
 
