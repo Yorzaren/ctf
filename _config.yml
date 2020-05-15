@@ -79,6 +79,12 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
 
+# Collections
+collections:
+  picoCTF-2018:
+    output: true
+    permalink: /:collection/:path/
+
 # Front Matter Defaults
 defaults:
   # Posts defaults
@@ -90,7 +96,7 @@ defaults:
       share: true
   - scope:
       path: "_picoCTF-2018"
-      type: posts
+      type: picoCTF-2018
     values:
       layout: post
       share: true
