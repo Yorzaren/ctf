@@ -83,17 +83,10 @@ plugins:
 defaults:
   # Posts defaults
   - scope:
-      path: "_posts"
+      path: ""
       type: posts
     values:
       layout: post
-      share: true
-  - scope:
-      path: "_picoCTF-2018"
-      type: posts
-    values:
-      layout: post
-      share: true
 
 # Site Author
 author: 
