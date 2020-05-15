@@ -79,7 +79,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
 
-# Collections
+# Collections - UNUSED
 collections:
   picoCTF-2018:
     output: true
@@ -96,7 +96,7 @@ defaults:
       share: true
   - scope:
       path: "_picoCTF-2018"
-      type: picoCTF-2018
+      type: posts
     values:
       layout: post
       share: true
