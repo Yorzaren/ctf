@@ -11,11 +11,11 @@ tags:
 
 Problem: Can you unzip this file for me and retreive the flag?
 
-File: <a href="https://github.com/Yorzaren/ctf/raw/master/picoCTF-2018/problem-files/Forensics%20Warmup%201%20flag.zip">file.zip</a>
+File: [file.zip](https://github.com/Yorzaren/ctf/raw/master/picoCTF-2018/problem-files/forensics-warmup-1.zip">)
 
 Solution: Unzip the file getting this image:
 
-![no-alignment]({{ '/solution-files/Forensics%20Warmup%201%20-%20flag.jpg' | absolute_url }})
+![no-alignment]({{ '/picoCTF-2018/solution-files/forensics-warmup-1-solution.jpg' | absolute_url }})
 
 
 Flag: ```picoCTF{welcome_to_forensics}```
