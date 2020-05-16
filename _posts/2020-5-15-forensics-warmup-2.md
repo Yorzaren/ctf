@@ -9,7 +9,7 @@ tags:
   - file extensions
 ---
 
-Problem: Can you unzip this file for me and retreive the flag?
+Problem: Hmm for some reason I can't open this PNG? Any ideas?
 
 File: [file.png](https://github.com/Yorzaren/ctf/raw/master/picoCTF-2018/problem-files/forensics-warmup-2.png "Download file")
 
