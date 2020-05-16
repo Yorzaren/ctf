@@ -15,6 +15,7 @@ File: <a href="https://github.com/Yorzaren/ctf/raw/master/picoCTF-2018/problem-f
 
 Solution: Unzip the file getting this image:
 
-<img src="https://raw.githubusercontent.com/Yorzaren/ctf/master/picoCTF-2018/solution-files/Forensics%20Warmup%201%20-%20flag.jpg">
+![no-alignment]({{ '/solution-files/Forensics%20Warmup%201%20-%20flag.jpg' | absolute_url }})
+
 
 Flag: ```picoCTF{welcome_to_forensics}```
