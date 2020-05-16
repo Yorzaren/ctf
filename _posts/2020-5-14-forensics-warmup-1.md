@@ -11,7 +11,7 @@ tags:
 
 Problem: Can you unzip this file for me and retreive the flag?
 
-File: [file.zip](https://github.com/Yorzaren/ctf/raw/master/picoCTF-2018/problem-files/forensics-warmup-1.zip">)
+File: [file.zip](https://github.com/Yorzaren/ctf/raw/master/picoCTF-2018/problem-files/forensics-warmup-1.zip "Download file")
 
 Solution: Unzip the file getting this image:
 
