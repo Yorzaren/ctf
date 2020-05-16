@@ -5,6 +5,7 @@ categories:
 tags:
   - picoCTF
   - picoCTF-2018
+  - web exploitation
 ---
 
 Problem: Do you see the same things I see? The glimpses of the flag hidden away? [http://2018shell.picoctf.com:10157](http://2018shell.picoctf.com:10157) (link)
