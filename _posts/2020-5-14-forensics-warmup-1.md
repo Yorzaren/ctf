@@ -15,7 +15,7 @@ File: [file.zip](https://github.com/Yorzaren/ctf/raw/master/picoCTF-2018/problem
 
 Solution: Unzip the file getting this image:
 
-![no-alignment]({{ '/picoCTF-2018/solution-files/forensics-warmup-1-solution.jpg' | absolute_url }})
+![no-alignment]({{ '/picoCTF-2018/solution-files/forensics-warmup-1.jpg' | absolute_url }})
 
 
 Flag: ```picoCTF{welcome_to_forensics}```
