@@ -21,7 +21,8 @@ The system asked if you've looked for files.
 ```ls``` to look for the files. 
 
 Directories:
-```blackmail                                                       
+```
+blackmail                                                       
 executables                                                     
 passwords                                                       
 photos                                                          
