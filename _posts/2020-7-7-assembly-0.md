@@ -16,27 +16,30 @@ File: [THE_FILE](https://github.com/Yorzaren/ctf/raw/master/picoCTF-2018/problem
 
 Solution: 
 
-```.intel_syntax noprefix
+```
+.intel_syntax noprefix
 .bits 32
 	
 .global asm0
 
 asm0:
-	push ebp
+	push	ebp
 	mov	ebp,esp
 	mov	eax,DWORD PTR [ebp+0x8]
 	mov	ebx,DWORD PTR [ebp+0xc]
 	mov	eax,ebx
 	mov	esp,ebp
 	pop	ebp	
-	ret```
+	ret
+```
 
 `asm0` is a function so calling `asm0(0xaa,0xf2)` makes `0xaa` and `0xf2` arguments.
 
 
+Code parts explained:
 ```
 asm0:
-	push ebp
+	push	ebp
 	mov	ebp,esp	; ebp = esp
 	mov	eax,DWORD PTR [ebp+0x8]	; eax = arg1, so in this case its 0xaa
 	mov	ebx,DWORD PTR [ebp+0xc]	; ebx = arg2, so in this case its 0xf2
