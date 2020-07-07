@@ -29,8 +29,7 @@ asm0:
 	mov	eax,ebx
 	mov	esp,ebp
 	pop	ebp	
-	ret
-```
+	ret```
 
 `asm0` is a function so calling `asm0(0xaa,0xf2)` makes `0xaa` and `0xf2` arguments.
 
