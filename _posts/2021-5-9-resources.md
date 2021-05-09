@@ -18,9 +18,7 @@ Solution: Go to the page and scroll to the bottom and find.
 
 picoCTF{r3source_pag3_f1ag} (2019 competition)
 
-picoCTF{xiexie_ni_lai_zheli} (2018 competition)
-
-```
+picoCTF{xiexie_ni_lai_zheli} (2018 competition)```
 
 
 Flag: ```picoCTF{r3source_pag3_f1ag}```
