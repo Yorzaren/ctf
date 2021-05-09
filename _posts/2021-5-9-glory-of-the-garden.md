@@ -5,6 +5,7 @@ categories:
 tags:
   - picoCTF
   - picoCTF-2019
+  - forensics
 ---
 
 Problem: This garden contains more than it seems. You can also find the file in /problems/glory-of-the-garden_0_25ece79ae00914856938a4b19d0e31af on the shell server.
