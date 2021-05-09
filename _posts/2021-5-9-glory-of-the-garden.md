@@ -1,5 +1,5 @@
 ---
-title: "TITLE"
+title: "Glory of the Garden"
 categories:
   - picoCTF-2019
 tags:
