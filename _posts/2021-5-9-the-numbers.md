@@ -8,7 +8,7 @@ tags:
   - cryptography
 ---
 
-Problem: PROBLEM_TEXT
+Problem: The numbers... what do they mean?
 
 File: [THE_FILE](https://github.com/Yorzaren/ctf/raw/master/picoCTF-2019/problem-files/the-numbers.png "Download file")
 
