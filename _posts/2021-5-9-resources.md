@@ -15,9 +15,7 @@ File: [THE_FILE](https://github.com/Yorzaren/ctf/raw/master/picoCTF-2019/problem
 Solution: Go to the page and scroll to the bottom and find. 
 
 ```Thanks for reading the resources page! Here's a flag for your time:
-
 picoCTF{r3source_pag3_f1ag} (2019 competition)
-
 picoCTF{xiexie_ni_lai_zheli} (2018 competition)```
 
 
