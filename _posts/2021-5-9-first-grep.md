@@ -15,6 +15,6 @@ File: [THE_FILE](https://github.com/Yorzaren/ctf/raw/master/picoCTF-2019/problem
 
 Solution: Login into the shell and navigate to the file or download the file. Once in the directory. Type: ```cat file | grep pico```
 
-Cat will print the contents of the file, but the file has a lot of text in it. So the best move is to use grep as the title of the problem implies. You use the `|` (pipe) to chain commands together.
+Cat will print the contents of the file, but the file has a lot of text in it. So the best move is to use grep as the title of the problem implies. You use the ```|``` (pipe) to chain commands together.
 
 Flag: ```picoCTF{grep_is_good_to_find_things_887251c6}```
