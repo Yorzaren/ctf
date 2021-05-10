@@ -47,7 +47,17 @@ if the_music == a_guitar:
         break
 ```
 
-![no-alignment]({{ '/picoCTF-2019/solution-files/forensics-warmup-1-solution.jpg' | absolute_url }})
+Fix the code by removing the ! from the print. You should realize that it prints the following ```66 79 78 74``` The next part you need to translate they are dazzled audiences. Rockstar syntax assigned the variable They with the value of dazzled audiences. By running 
 
+```
+Rock is dazzled audiences
+Shout Rock
+```
 
-Flag: ```picoCTF{UNSOLVED}```
+You get ```79``` for this part. The print it likely refers to this value.
+
+Same for the next parts.
+
+Altogether you should get the following numbers ```66 79 78 74 79 86 73``` translate from decimal to text you get ```BONJOVI```.
+
+Flag: ```picoCTF{BONJOVI}```
