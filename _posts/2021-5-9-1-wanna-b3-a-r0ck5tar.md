@@ -16,7 +16,7 @@ Solution: Install a transpiler for rockstar to python. Follow the instructions a
 
 Running the transpiler you get the following code. 
 
-Rocknroll = True
+```Rocknroll = True
 Silence = False
 a_guitar = 10
 Tommy = 44
@@ -43,7 +43,7 @@ if the_music == a_guitar:
         break
         print("Bring on the rock!")
         Else print("That ain't it, Chief")
-        break
+        break```
 
 ![no-alignment]({{ '/picoCTF-2019/solution-files/forensics-warmup-1-solution.jpg' | absolute_url }})
 
