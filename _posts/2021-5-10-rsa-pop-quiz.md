@@ -8,7 +8,7 @@ tags:
   - cryptography
 ---
 
-Problem: Class, take your seats! It's PRIME-time for a quiz... nc 2019shell1.picoctf.com 48028
+Problem: Class, take your seats! It's PRIME-time for a quiz... ```nc 2019shell1.picoctf.com 48028```
 
 Solution: 
 
@@ -155,5 +155,8 @@ plaintext =
 14311663942709674867122208214901970650496788151239520971623411712977119700648325685123965309
 ```
 
+If you convert the last plaintext to a hex number, then ascii, you'll find what you need! ;)
 
-Flag: ```picoCTF{UNSOLVED}```
+Convert from decimal to hex then to ascii.
+
+Flag: ```picoCTF{wA8_th4t$_ill3aGal..o4d21b3ca}```
