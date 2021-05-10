@@ -19,6 +19,6 @@ jf jfpf vzy knem kzpf ymhv h onhpyfp zd hv mznp zny zd znp xmtr ytss jf xhj mfp 
 
 Solution: I just brute forced it with a Substitution Cipher.
 
-![no-alignment]({{ '/picoCTF-2019/solution-files/waves-over-lambda-solution.png' | absolute_url }})
+![no-alignment]({{ '/picoCTF-2019/solution-files/waves-over-lambda-solution.jpg' | absolute_url }})
 
 Flag: ```picoCTF{frequency_is_c_over_lambda_mupgpennod}```
