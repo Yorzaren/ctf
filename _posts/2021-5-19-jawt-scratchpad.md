@@ -13,11 +13,13 @@ Solution: When you attempt to login as ```admin``` you fail, but you can login a
 
 ```jwt``` set to ```eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyIjoiam9obiJ9._fAF3H23ckP4QtF1Po3epuZWxmbwpI8Q26hRPDTh32Y``` when login in as john.
 
-https://jwt.io/ using this site you know that the algorithm is HS256 (HMAC with SHA-256). Using john the rippper I'll toss the cookie string into a text file called crackthis.txt and using the wordlist rockyou.
-
-```john crackthis.txt --format=HMAC-SHA256 --wordlist=/usr/share/wordlists/rockyou.txt```
+https://jwt.io/ using this site you know that the algorithm is HS256 (HMAC with SHA-256). 
 
 ![no-alignment]({{ '/picoCTF-2019/solution-files/jawt-scratchpad.jpg' | absolute_url }})
+
+Using john the rippper I'll toss the cookie string into a text file called crackthis.txt and using the wordlist rockyou.
+
+```john crackthis.txt --format=HMAC-SHA256 --wordlist=/usr/share/wordlists/rockyou.txt```
 
 ![no-alignment]({{ '/picoCTF-2019/solution-files/jawt-scratchpad-2.jpg' | absolute_url }})
 
