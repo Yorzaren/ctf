@@ -5,6 +5,7 @@ categories:
 tags:
   - picoCTF
   - picoCTF-2019
+  - web exploitation
 ---
 
 Problem: Check the admin scratchpad! https://2019shell1.picoctf.com/problem/21893/ or http://2019shell1.picoctf.com:21893
