@@ -8,7 +8,7 @@ tags:
   - general skills
 ---
 
-Problem: PROBLEM_TEXT
+Problem: This file has a flag in plain sight (aka "in-the-clear"). Download flag.
 
 File: [THE_FILE](https://github.com/Yorzaren/ctf/raw/master/picoCTF-2021/problem-files/obedient-cat "Download file")
 

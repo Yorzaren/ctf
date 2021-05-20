@@ -8,7 +8,7 @@ tags:
   - general skills
 ---
 
-Problem: PROBLEM_TEXT
+Problem: Python scripts are invoked kind of like programs in the Terminal... Can you run this Python script using this password to get the flag?
 
 File: [THE_FILE](https://github.com/Yorzaren/ctf/raw/master/picoCTF-2021/problem-files/python-wrangling.flag.txt.en "Download file")
 File: [THE_FILE](https://github.com/Yorzaren/ctf/raw/master/picoCTF-2021/problem-files/python-wrangling-pw.txt "Download file")
