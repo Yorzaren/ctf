@@ -12,9 +12,14 @@ Problem: Matryoshka dolls are a set of wooden dolls of decreasing size placed on
 
 File: [THE_FILE](https://github.com/Yorzaren/ctf/raw/master/picoCTF-2021/problem-files/dolls.jpg "Download file")
 
-Solution: HOW_TO
+Solution: 
 
-![no-alignment]({{ '/picoCTF-2021/solution-files/forensics-warmup-1-solution.jpg' | absolute_url }})
+```binwalk dolls.jpg -Me```
 
+Like the name implies, the image has zip files within it eventually after unzipping it all you get a file marked: flag.txt
 
-Flag: ```picoCTF{UNSOLVED}```
+`cat flag.txt`
+
+```picoCTF{4cf7ac000c3fb0fa96fb92722ffb2a32}```
+
+Flag: ```picoCTF{4cf7ac000c3fb0fa96fb92722ffb2a32}```
