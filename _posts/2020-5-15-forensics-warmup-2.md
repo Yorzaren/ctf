@@ -5,8 +5,7 @@ categories:
 tags:
   - picoCTF
   - picoCTF-2018
-  - forencsics
-  - file extensions
+  - forensics
 ---
 
 Problem: Hmm for some reason I can't open this PNG? Any ideas?

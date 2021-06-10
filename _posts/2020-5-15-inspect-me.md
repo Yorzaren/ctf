@@ -6,10 +6,6 @@ tags:
   - picoCTF
   - picoCTF-2018
   - web exploitation
-  - inspecting code
-  - html
-  - css
-  - js
 ---
 
 Problem: Inpect this code! [http://2018shell.picoctf.com:53213](http://2018shell.picoctf.com:53213) (link)

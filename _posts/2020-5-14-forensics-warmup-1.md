@@ -6,7 +6,6 @@ tags:
   - picoCTF
   - picoCTF-2018
   - forencsics
-  - unzipping
 ---
 
 Problem: Can you unzip this file for me and retreive the flag?

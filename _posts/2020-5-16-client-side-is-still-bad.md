@@ -6,7 +6,6 @@ tags:
   - picoCTF
   - picoCTF-2018
   - web exploitation
-  - js
 ---
 
 Problem: I forgot my password again, but this time there doesn't seem to be a reset, can you help me? [http://2018shell.picoctf.com:8420](http://2018shell.picoctf.com:8420) (link)

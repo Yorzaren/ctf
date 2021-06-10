@@ -6,7 +6,6 @@ tags:
   - picoCTF
   - picoCTF-2018
   - general
-  - conversion
 ---
 
 Problem: Can you convert the number 27 (base 10) to binary (base 2)?

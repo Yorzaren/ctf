@@ -5,7 +5,7 @@ categories:
 tags:
   - picoCTF
   - picoCTF-2018
-  - reversing
+  - reverse engineering
 ---
 
 Problem: What does `asm0(0xaa,0xf2)` return? Submit the flag as a hexadecimal value (starting with '0x'). NOTE: Your submission for this question will NOT be in the normal flag format. Source located in the directory at `/problems/assembly-0_2_485b2d48345b19addbeb06a36aabdc74`.

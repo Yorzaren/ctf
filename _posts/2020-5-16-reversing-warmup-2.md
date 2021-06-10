@@ -5,7 +5,7 @@ categories:
 tags:
   - picoCTF
   - picoCTF-2018
-  - reversing
+  - reverse engineering
 ---
 
 Problem: Can you decode the following string ```dGg0dF93NHNfczFtcEwz``` from base64 format to ASCII?
