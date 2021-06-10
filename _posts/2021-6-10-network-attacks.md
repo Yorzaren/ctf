@@ -17,7 +17,7 @@ The example script below contains the beginnings of a solution for you to modify
 
 Connect at `nc socket.cryptohack.org 11112`
 
-[telnetlib_example.py](https://github.com/Yorzaren/ctf/raw/master/CRYPTOHACK/telnetlib_example.py)
+[telnetlib.py](https://github.com/Yorzaren/ctf/raw/master/CRYPTOHACK/telnetlib.py)
 
 Solution: 
 
