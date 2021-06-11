@@ -1,5 +1,5 @@
 ---
-title: "PLACEHOLDER"
+title: "XOR Properties"
 categories:
   - CRYPTOHACK
 tags:

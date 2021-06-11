@@ -1,5 +1,5 @@
 ---
-title: "TITLE"
+title: "Javascript - Source"
 categories:
   - Root Me
 tags:
@@ -15,7 +15,7 @@ Opening the page you get an alert type something and you'll see that the passwor
 
 Open the page source
 
-```
+```html
 <html>
     <head>
 	<script type="text/javascript">
