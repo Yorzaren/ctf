@@ -12,3 +12,13 @@ permalink: /tools/
 [https://stylesuxx.github.io/steganography/](https://stylesuxx.github.io/steganography/)
 
 [https://0xrick.github.io/lists/stego/](https://0xrick.github.io/lists/stego/)
+
+[https://gchq.github.io/CyberChef/](https://gchq.github.io/CyberChef/)
+
+### Javascript Deobfuscation
+
+[https://lelinhtinh.github.io/de4js/](https://lelinhtinh.github.io/de4js/)
+
+[http://jsnice.org/](http://jsnice.org/)
+
+[https://www.dcode.fr/javascript-unobfuscator](https://www.dcode.fr/javascript-unobfuscator)
