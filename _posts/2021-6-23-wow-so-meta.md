@@ -13,6 +13,12 @@ File: [THE_FILE](https://github.com/Yorzaren/ctf/raw/master/CTFlearn/problem-fil
 
 Solution: 
 
-PLACEHOLDER
+exiftool 3UWLBAUCb9Z2.jpg 
 
-Flag: `UNSOLVED`
+Or your Exif reader of choice.
+
+```
+Camera Serial Number            : flag{EEe_x_I_FFf}
+```
+
+Flag: `flag{EEe_x_I_FFf}`
