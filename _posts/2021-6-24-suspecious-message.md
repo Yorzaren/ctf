@@ -1,5 +1,5 @@
 ---
-title: "PLACEHOLDER"
+title: "Suspecious message"
 categories:
   - CTFlearn
 tags:

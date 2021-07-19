@@ -7,7 +7,7 @@ tags:
   - forensics
 ---
 
-PLACEHOLDER
+the flag is outside of the pic, try to find it. another hint: dimensions, dimensions, everything is in dimensions.
 
 File: [THE_FILE](https://github.com/Yorzaren/ctf/raw/master/CTFlearn/problem-files/abondoned_street_challenge2.jpg "Download file")
 
