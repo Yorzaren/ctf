@@ -11,6 +11,8 @@ tags:
 # Securely Provision
 One of the categories in the Department of Energy's CyberForce Program - Conquer the Hill: Adventurer Edition 2021
 
+[CyberForce 2021 Writeup](/ctf/cyberforce/cyberforce-2021-adventurer-writeup/)
+
 {% include toc %}
 
 ## Securely Provision: Anomaly 20 (20pts)

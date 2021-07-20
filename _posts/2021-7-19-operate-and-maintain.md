@@ -11,6 +11,8 @@ tags:
 # Operate and Maintain
 One of the categories in the Department of Energy's CyberForce Program - Conquer the Hill: Adventurer Edition 2021. I was busy and didn't have the time to focus on this category.
 
+[CyberForce 2021 Writeup](/ctf/cyberforce/cyberforce-2021-adventurer-writeup/)
+
 {% include toc %}
 
 ## Operate and Maintain: Anomaly 6 (20pts)

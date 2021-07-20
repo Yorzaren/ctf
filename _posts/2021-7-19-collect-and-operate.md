@@ -11,6 +11,8 @@ tags:
 # Collect and Operate
 One of the categories in the Department of Energy's CyberForce Program - Conquer the Hill: Adventurer Edition 2021
 
+[CyberForce 2021 Writeup](/ctf/cyberforce/cyberforce-2021-adventurer-writeup/)
+
 {% include toc %}
 
 ## Collect and Operate: Anomaly 22 (20pts)

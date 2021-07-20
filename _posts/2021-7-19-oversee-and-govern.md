@@ -11,6 +11,8 @@ tags:
 # Oversee and Govern
 One of the categories in the Department of Energy's CyberForce Program - Conquer the Hill: Adventurer Edition 2021
 
+[CyberForce 2021 Writeup](/ctf/cyberforce/cyberforce-2021-adventurer-writeup/)
+
 {% include toc %}
 
 ## Oversee and Govern: Anomaly 7 (20pts)
