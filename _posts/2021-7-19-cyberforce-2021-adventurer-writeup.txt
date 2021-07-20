@@ -10,19 +10,24 @@ tags:
 
 Department of Energy’s CyberForce Program - Conquer the Hill: Adventurer Edition 2021 [Link](https://cyberforcecompetition.com/conquer-the-hill/adventurer-edition/)
 
+
 Location: Online
+
 
 Date: July 16, 2021 to July 18, 2021
 
+
 Time limit: 48 hours
+
 
 Style: Individual based
 
 Categories:
+
 - Analyze
 - Collect and Operate
 - Investigate
 - Operate and Maintain
 - Oversee and Govern
 - Protect and Defend
-- Securely Provision [Writeup][/cyberforce/securely-provision/]
+- Securely Provision (Writeup)[/cyberforce/securely-provision/]
