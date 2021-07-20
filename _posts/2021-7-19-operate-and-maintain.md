@@ -18,6 +18,23 @@ You have been provided a file of error logs upon the suspicion of a potential SQ
 
 ### Solution
 
+Relevant Log: 
+```
+[Mon Jun 29 11:30:22.708746 2020] [php7:notice] [pid 1534] [client ::1:51340] or 1 =1 , referer: http://localhost/tester.php
+[Mon Jun 29 11:35:07.775141 2020] [php7:notice] [pid 1532] [client ::1:51367] Failed attempt. Username:  , referer: http://localhost/tester.php
+[Mon Jun 29 11:35:07.775386 2020] [php7:notice] [pid 1532] [client ::1:51367] 'or '1' = '2, referer: http://localhost/tester.php
+[Mon Jun 29 11:35:07.775396 2020] [php7:notice] [pid 1532] [client ::1:51367]  Password: , referer: http://localhost/tester.php
+[Mon Jun 29 11:35:07.775404 2020] [php7:notice] [pid 1532] [client ::1:51367] 'or '1' = '2, referer: http://localhost/tester.php
+[Mon Jun 29 11:38:25.291250 2020] [php7:notice] [pid 1534] [client ::1:51436] Failed attempt. Username:  , referer: http://localhost/tester.php
+[Mon Jun 29 11:38:25.291464 2020] [php7:notice] [pid 1534] [client ::1:51436] ' or '1' = '1;#, referer: http://localhost/tester.php
+[Mon Jun 29 11:38:25.291474 2020] [php7:notice] [pid 1534] [client ::1:51436]  Password: , referer: http://localhost/tester.php
+[Mon Jun 29 11:38:25.291482 2020] [php7:notice] [pid 1534] [client ::1:51436] , referer: http://localhost/tester.php
+[Mon Jun 29 11:39:25.487544 2020] [php7:notice] [pid 1534] [client ::1:51440] Failed attempt. Username:  , referer: http://localhost/tester.php
+[Mon Jun 29 11:39:25.487761 2020] [php7:notice] [pid 1534] [client ::1:51440] ' or '1' = '1"; #, referer: http://localhost/tester.php
+[Mon Jun 29 11:39:25.487772 2020] [php7:notice] [pid 1534] [client ::1:51440]  Password: , referer: http://localhost/tester.php
+[Mon Jun 29 11:39:25.487791 2020] [php7:notice] [pid 1534] [client ::1:51440] , referer: http://localhost/tester.php
+```
+
 Ans: `Boolean-based injection`
 
 ## Operate and Maintain: Anomaly 17 (20pts)
