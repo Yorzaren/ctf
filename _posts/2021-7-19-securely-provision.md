@@ -91,7 +91,7 @@ HTML Form URL Encoded: application/x-www-form-urlencoded
 VSS Monitoring Ethernet trailer, Source Port: 0
 ```
 
-![no-alignment]({{ '/CyberForce-2021/Anom-59.png' | absolute_url }})
+![no-alignment]({{ '/CyberForce-2021/Anom-59.jpg' | absolute_url }})
 
 Ans: `flag{icscontrol2018!}`
 
